@@ -8,7 +8,12 @@ public class HelloWorld {
 		// TODO Auto-generated method stub
 
 	System.out.println("hello world")	;
-		
+	
+	System.out.println("Happy New Year!") ;
+	
+	System.out.println("yay! 2020") ;
 	}
 
 }
+
+ 
